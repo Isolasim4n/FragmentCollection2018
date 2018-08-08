@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragment Pras</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_a">Hello blank fragment A</string>
+    <string name="hello_blank_fragment_b">Hello blank fragment B</string>
+    <string name="hello_blank_fragment_c">Hello blank fragment C</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
